@@ -1,0 +1,10 @@
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\bin\Debug\CadastroPacientes.exe.config
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\bin\Debug\CadastroPacientes.exe
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\bin\Debug\CadastroPacientes.pdb
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.csprojAssemblyReference.cache
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.Form1.resources
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.Properties.Resources.resources
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.csproj.GenerateResource.cache
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.csproj.CoreCompileInputs.cache
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.exe
+C:\Users\gick2\Desktop\CadastroPacientes\CadastroPacientes\obj\Debug\CadastroPacientes.pdb
